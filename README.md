@@ -1,4 +1,4 @@
-Welcome To Dollar Life
+<h1>Welcome To Dollar Life</h1>
 
 Dollar life is a 100% decentralized hybrid concept build on polygon blockchain which works upon the "go with the market trend " strategy. 
 As the polygon price going to boom in near future, Dollar Life guarantees the passive profit.
